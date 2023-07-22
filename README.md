@@ -8,5 +8,28 @@ Los componentes que componen la solución de Wazuh son los siguientes:
 - **Elastick Stack**: Indexa y guarda las alertas del servidor Wazuh. Además, la integración de Wazuh junto a Kibana poroporciona una UX-UI para la visualizacion y análisis de datos.
 
 
-S
+## Requisitos previos
 
+### SO Recomendado
+
+El servidor Wazuh puede ser insalado en SO Linux x64, como:
+
+| **Amazon Linux 2**                    	| **CentOS 7, 8**                       	|
+|---------------------------------------	|---------------------------------------	|
+| **Red Hat Enterprises Linux 7, 8, 9** 	| **Ubuntu 16.04, 18.04, 20.04, 22.04** 	|
+
+### Hardware recomendado
+
+El servidor Wazuh puede ser instalado en un unico nodo o en un cluster, sus requisitos son:
+
+**Mínimo**
+
+| RAM (GB) 	| CPU (Cores) 	|
+|:--:|:--:|
+| 2        	| 2           	|
+
+**Recomendado**
+
+| RAM (GB) 	| CPU (Cores) 	|
+|:--:|:--:|
+| 4        	| 8           	|
