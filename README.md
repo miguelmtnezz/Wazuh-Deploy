@@ -45,10 +45,12 @@ El servidor Wazuh puede ser instalado en un unico nodo o en un cluster, sus requ
 Finalizado el proceso de instalación, hemos de guardar las credenciales ADMIN para poder hacer nuestro primer login/acceso.
 
 Posteriormente realizado las ejecuciones de las anteriores ordenes descritas, se desplegara de manera automatizada todo su proceso de instalacion. Unicamente hemos de loguearnos al Dashboard web, abriendo un navegador e introducir la IP de la maquina que hemos instalado nuestro servidor.
-
+![imagen1](https://github.com/miguelmtnezz/Wazuh-Deploy/blob/main/img/login.png?raw=true)
 
 ## Proceso de Instalación (Wazuh Agent)
 
 En este proceso de instalacion se ha vinculado como Agente un activo Windows 10 Pro.
 
 Básicamente hemos de dirigirnos desde el dashborad, acceder a Wazuh > Agents y se desplegara un menu, donde hemos de seleccionar el SO de nuestra maquina que queremos escanear. Y seguir los pasos descritos en el propio portal web, para ser posteriormente ejecutados en el sistema final.
+
+![imagen2](https://github.com/miguelmtnezz/Wazuh-Deploy/blob/main/img/agent.png?raw=true)
