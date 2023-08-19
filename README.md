@@ -58,7 +58,6 @@ Finalizado el proceso de instalación, hemos de guardar las credenciales ADMIN p
 
 Posteriormente realizado las ejecuciones de las anteriores ordenes descritas, se desplegara de manera automatizada todo su proceso de instalacion. Unicamente hemos de loguearnos al Dashboard web, abriendo un navegador e introducir la IP de la maquina que hemos instalado nuestro servidor.
 
-![imagen1](https://github.com/miguelmtnezz/Wazuh-Deploy/blob/main/img/login.png?raw=true)
 
 ## Proceso de Instalación (Wazuh Agent)
 
